@@ -20,7 +20,7 @@
   <g fill="none" fill-rule="evenodd">
     <use stroke="#DFDFDF" mask="url(#d)" stroke-width="2" fill="#FDFDFD" xlink:href="#a"/>
     <text font-family="SourceSansPro-Regular, Source Sans Pro" font-size="25" letter-spacing=".33" fill="#555">
-      <tspan x="28" y="49">express-react-boxfuse-starter</tspan> <tspan x="189.545" y="49">d</tspan>
+      <tspan x="28" y="49">express-starter</tspan> <tspan x="189.545" y="49">d</tspan>
     </text>
     <path fill="#555" d="M45 81h3v305h-3z"/>
     <path fill="#555" d="M47 127h48v3H47zM45 213h48v3H45zM47 299h48v3H47zM45 385h48v3H45zM119 415h3v150h-3zM122 476h48v3h-48z"/>
