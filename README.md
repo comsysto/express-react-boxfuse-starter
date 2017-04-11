@@ -36,7 +36,7 @@ Now go to **[https://localhost:10444](https://localhost:10444)** and accept the 
 You should see something like this:
 
 <p align="center">
-    <img src="https://comsysto.github.io/express-react-boxfuse-starter/img/localhost-10444.png" width="80%" />
+    <img src="https://comsysto.github.io/express-react-boxfuse-starter/img/localhost-10444.png?v2" width="80%" />
 </p>
 
 -----
