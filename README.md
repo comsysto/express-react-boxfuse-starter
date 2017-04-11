@@ -47,7 +47,7 @@ You should see something like this:
 ### SSL Certificate
 
 There is already one self signed certificate residing in `./server/ssl/`.
-You **should put a wildcard SSL Certificates to `./server/ssl/` see `./server/server.js` on how to configure SSL.
+You **should at best put a valid wildcard SSL Certificates to `./server/ssl/`** see `./server/server.js` on how to configure SSL.
 
 How to generate self signed certificate:
 
