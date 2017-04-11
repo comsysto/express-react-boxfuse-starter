@@ -1,0 +1,21 @@
+{
+  "name": "express-react-boxfuse-starter-server",
+  "version": "1.0.9999",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./server.js",
+    "bundle": "npm shrinkwrap && ./node_modules/.bin/npm-bundle"
+  },
+  "dependencies": {
+    "body-parser": "~1.16.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.0",
+    "express": "~4.14.1",
+    "morgan": "~1.7.0",
+    "pug": "^2.0.0-beta11",
+    "serve-favicon": "~2.3.2"
+  },
+  "devDependencies": {
+    "npm-bundle": "^3.0.3"
+  }
+}

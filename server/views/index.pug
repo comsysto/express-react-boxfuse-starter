@@ -1,0 +1,6 @@
+extends layoutIndex
+
+block content
+  div(class='container-fluid p-a-0 cs-desktop', id='app')
+  script ENV_FRONTEND='#{envFrontend}';
+  script(src='/bundle.js')

@@ -1,0 +1,15 @@
+.idea
+.sass-cache/
+.project
+.classpath
+.settings
+*.iml
+build-temp/
+.DS_Store
+bin/
+node_modules/
+*.log
+seevee.js
+main.js.map
+
+dist/

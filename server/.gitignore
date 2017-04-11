@@ -1,0 +1,3 @@
+*.tgz
+npm-shrinkwrap.json
+node_modules/
