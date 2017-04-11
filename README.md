@@ -47,7 +47,7 @@ How to generate self signed certificate:
 
 ```bash
 cd express-react-boxfuse-starter/server/ssl
-openssl req  -nodes -new -x509  -keyout app.key -out app.cert
+openssl req  -nodes -new -x509  -keyout app.key -out app.crt
 
 # Country Name (2 letter code) [AU]:DE
 # State or Province Name (full name) [Some-State]:DE
