@@ -3,7 +3,7 @@
 Express-Server Starter Template with HTTPS Server and React Application to use with [Boxfuse](https://boxfuse.com/).
 See the [BlogPost about Microservices with Boxfuse](https://comsysto.com/blog-post/selbstskalierende-scs-self-contained-service-infrastruktur-mit-boxfuse-auf-aws-part-3).
 
-[![](https://comsysto.github.io/express-react-boxfuse-starter/img/frontend-app-structure---embedded-css-webfont.svg?v2)](https://comsysto.com/blog-post/selbstskalierende-scs-self-contained-service-infrastruktur-mit-boxfuse-auf-aws-part-3).
+[![](https://comsysto.github.io/express-react-boxfuse-starter/img/frontend-app-structure---embedded-css-webfont.svg?v2)](https://comsysto.com/blog-post/selbstskalierende-scs-self-contained-service-infrastruktur-mit-boxfuse-auf-aws-part-3)
 
 -----
 
@@ -32,6 +32,12 @@ npm run develop
 ```
 
 Now go to **[https://localhost:10444](https://localhost:10444)** and accept the self signed certificate.
+
+You should see something like this:
+
+<p align="center">
+    <img src="https://comsysto.github.io/express-react-boxfuse-starter/img/localhost-10444.png" width="80%" />
+</p>
 
 -----
 
