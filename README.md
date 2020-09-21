@@ -74,4 +74,4 @@ openssl req  -nodes -new -x509  -keyout app.key -out app.crt
 
 ## License
 
-[MIT](./LICENSE) © [Bernhard Grünewaldt](https://github.com/clouless)
+[MIT](./LICENSE)
